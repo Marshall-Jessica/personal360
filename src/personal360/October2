@@ -10,7 +10,7 @@ wrapped around what its purpose was and how to use it.
 
 Hibernate helps java be object relational and maps Java classes to database tables. 
 It bridges the gap between Java objects and the database server pushing those 
-objects based on the relational maps you create. Hibernate requires a persistant
+objects based on the relational maps you create. Hibernate requires a persistent 
 java class, create a sql table, XMl mapping configuration, and connection to the 
 main java class. It will then give the result and records what data the user has 
 created.
@@ -28,3 +28,8 @@ https://github.com/Marshall-Jessica/personal360/blob/master/src/personal360/hibe
 I also wrote my own code to gather objects and create a table to store them here:
 https://github.com/Marshall-Jessica/personal360/blob/master/src/personal360/hibernatecode.java
 I presented my topic and taught my team 
+
+
+I've created a personal portfolio to keep working examples and personal code I've 
+created:
+https://github.com/Marshall-Jessica/personal360/tree/master/src/personal360
