@@ -1,4 +1,5 @@
 Hibernate
+
 This is a topic I'm newly learning. I haven't used this concept before in programs 
 so I wanted to get familiar with the concept at the beginning of the semester so 
 I would be more effective with it when we’re into programming our app. It was pretty 
@@ -7,7 +8,9 @@ of components to it. After reading several articles on the subject some from the
 Topics and Resources provided and some from example on the internet, I got my head
 wrapped around what its purpose was and how to use it. 
 
-Hibernate helps java be object relational and maps Java classes to database tables. It bridges the gap between Java objects and the database server pushing those objects based on the relational maps you create.
+Hibernate helps java be object relational and maps Java classes to database tables. 
+It bridges the gap between Java objects and the database server pushing those 
+objects based on the relational maps you create.
 Advantages of using Hibernate:
 
 •	Provides simple APIs for storing and retrieving Java objects directly to 
@@ -17,7 +20,7 @@ Advantages of using Hibernate:
 •	Provides simple querying of data.
 
 I have a working example of the code in my repository here:
-
+https://github.com/Marshall-Jessica/personal360/blob/master/src/personal360/hibernate.java
 I also wrote my own code to gather objects and create a table to store them here:
-
+https://github.com/Marshall-Jessica/personal360/blob/master/src/personal360/hibernatecode.java
 I presented my topic and taught my team 
