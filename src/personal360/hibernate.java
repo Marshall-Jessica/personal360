@@ -50,11 +50,11 @@ public class hibernate {
 /*
 Create database tables in the sql database
 create table EMPLOYEE (
-   id INT NOT NULL auto_increment,
-   first_name VARCHAR(20) default NULL,
-   last_name  VARCHAR(20) default NULL,
-   salary     INT  default NULL,
-   PRIMARY KEY (id)
+    id INT NOT NULL auto_increment,
+    first_name VARCHAR(20) default NULL,
+    last_name  VARCHAR(20) default NULL,
+    salary     INT  default NULL,
+    PRIMARY KEY (id)
 );
 
 The next step is to create a mapping file to instruct Hibernate
