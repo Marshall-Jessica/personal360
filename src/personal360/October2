@@ -10,7 +10,11 @@ wrapped around what its purpose was and how to use it.
 
 Hibernate helps java be object relational and maps Java classes to database tables. 
 It bridges the gap between Java objects and the database server pushing those 
-objects based on the relational maps you create.
+objects based on the relational maps you create. Hibernate requires a persistant
+java class, create a sql table, XMl mapping configuration, and connection to the 
+main java class. It will then give the result and records what data the user has 
+created.
+
 Advantages of using Hibernate:
 
 •	Provides simple APIs for storing and retrieving Java objects directly to 

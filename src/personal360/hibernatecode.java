@@ -36,9 +36,9 @@ public class hibernatecode {
 }
 /*
 create table PINCODE (
-    pinecode INT NOT NULL auto_increment,
+    pincode INT NOT NULL auto_increment,
     name VARCHAR(20) defaulf NULL,
-    PRIMARY KEY (id)
+    PRIMARY KEY (pincode)
 );
 
 Next is to create the PHP code to connect to the database and enter in data.
