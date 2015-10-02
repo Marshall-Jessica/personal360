@@ -25,10 +25,13 @@ Advantages of using Hibernate:
 
 I have a working example of the code in my repository here:
 https://github.com/Marshall-Jessica/personal360/blob/master/src/personal360/hibernate.java
+
 I also wrote my own code to gather objects and create a table to store them here:
 https://github.com/Marshall-Jessica/personal360/blob/master/src/personal360/hibernatecode.java
-I presented my topic and taught my team 
 
+I presented my topic and taught my team about the hibernate topic. Here's our team
+meeting video I began presenting at 4:18.
+https://plus.google.com/u/0/events/c3051v6rgvvjhjf3psh4t5hjqes
 
 I've created a personal portfolio to keep working examples and personal code I've 
 created:
