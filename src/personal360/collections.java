@@ -4,13 +4,27 @@
  * and open the template in the editor.
  */
 package personal360;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
 
 public class collections {
+    
+    public static void main(String[] args) {
+        
+        Map m1 = new HashMap();
 
-   public static void main(String[] args) {
-       
-       List PasswordList = new ArrayList();
+        m1.put("School Password ", "password");
+        m1.put("Facebook Password ", "Pa55word");
+        m1.put("Bank Password ", "P@55w0rD1234");
+
+        System.out.println("Your Passwords:");
+        System.out.println(m1);
+        System.out.println(m1.get("Facebook Password"));
+        
+        List PasswordList = new ArrayList();
 
         PasswordList.add("password");
         PasswordList.add("pa55word");
@@ -32,5 +46,5 @@ public class collections {
         for(Object object : PasswordList) {
             String element = (String) object;
         }
-   }
+    }
 }
