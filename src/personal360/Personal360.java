@@ -29,7 +29,6 @@ public class Personal360 {
         System.out.println("Your Passwords:");
         System.out.println(m1);
         System.out.println(m1.get("Facebook Password"));
-        
+          
     }
-    
 }
