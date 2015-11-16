@@ -9,7 +9,7 @@ package personal360;
 /**
  *
  * @author Jessica
- */
+
 import java.io.StringWriter;
 import org.json.simple.JSONObject;
 
@@ -31,3 +31,4 @@ class JsonEncodeDemo {
       System.out.print(jsonText);
    }
 }
+ */
